@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    width: 30%;
+    margin: 1.4%;
+}
+
+h1 {
+    margin-left: 11%;
+    font-size: 40px;
+    font-family: 'Comfortaa', cursive;
+    text-transform: uppercase;
+    padding-bottom: 1%;
+    border-bottom: 2px solid rgb(168, 52, 52);
+    width: 46.44%; 
+}
+
+footer a {
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px groove grey;
+    border-radius: 3px;
+    padding: 2px;
+    color: grey;
+}
+#contact:hover {
+    background-color: grey;
+    color: white;
+}
