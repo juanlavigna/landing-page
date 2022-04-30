@@ -24,11 +24,11 @@ h1 {
 
 footer a {
     text-align: center;
-    text-transform: uppercase;
     border: 1px groove grey;
     border-radius: 3px;
     padding: 2px;
     color: grey;
+    font-family: 'Comfortaa', cursive;
 }
 #contact:hover {
     background-color: grey;
